@@ -264,5 +264,4 @@ fabric.properties
 # Webpack build
 dist/
 build/
-123/
-ignore/
+to_ignore/
